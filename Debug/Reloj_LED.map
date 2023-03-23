@@ -1,0 +1,752 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              display.o (__tablejump2__)
+d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              atc24.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+KIND_DISPLAY        0x5               botones.o
+Drive_Alarm         0x1               atc24.o
+PILOTE_HORLOGE      0x1f              atc24.o
+MODE_DEPLOYE        0x1               botones.o
+PILOTE_SPI          0x2b              atc24.o
+On_Off_Options      0x2               botones.o
+BOUTONS_PILOTES     0xe               botones.o
+Maneja_tiempo       0x6               botones.o
+ESTADO              0x1               botones.o
+Drive_WT58          0xe               botones.o
+Drive_ornament      0xb               interrupts.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 atc24.o
+ .data          0x00000000        0x0 atc24.o
+ .bss           0x00000000        0x0 atc24.o
+ .text          0x00000000        0x0 botones.o
+ .data          0x00000000        0x0 botones.o
+ .bss           0x00000000        0x0 botones.o
+ .text          0x00000000        0x0 display.o
+ .data          0x00000000        0x0 display.o
+ .bss           0x00000000        0x0 display.o
+ .text          0x00000000        0x0 interrupts.o
+ .data          0x00000000        0x0 interrupts.o
+ .bss           0x00000000        0x0 interrupts.o
+ .text          0x00000000        0x0 delay.o
+ .data          0x00000000        0x0 delay.o
+ .bss           0x00000000        0x0 delay.o
+ .text.DELAY_ms
+                0x00000000       0x16 delay.o
+ .text          0x00000000        0x0 i2c.o
+ .data          0x00000000        0x0 i2c.o
+ .bss           0x00000000        0x0 i2c.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 Plays_Externs.o
+ .data          0x00000000        0x0 Plays_Externs.o
+ .bss           0x00000000        0x0 Plays_Externs.o
+ .text          0x00000000        0x0 rtc_ds1307.o
+ .data          0x00000000        0x0 rtc_ds1307.o
+ .bss           0x00000000        0x0 rtc_ds1307.o
+ .text.DS1307_put
+                0x00000000       0x18 rtc_ds1307.o
+ .text          0x00000000        0x0 WT588D.o
+ .data          0x00000000        0x0 WT588D.o
+ .bss           0x00000000        0x0 WT588D.o
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD atc24.o
+LOAD botones.o
+LOAD display.o
+LOAD interrupts.o
+LOAD delay.o
+LOAD i2c.o
+LOAD main.o
+LOAD Plays_Externs.o
+LOAD rtc_ds1307.o
+LOAD WT588D.o
+START GROUP
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x29f2
+ *(.vectors)
+ .vectors       0x00000000       0x54 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.Mode_de_DEPLOYE
+                0x00000054       0x1c display.o
+ .progmem.gcc_sw_table.Acomoda_5X32_DATE
+                0x00000070       0x1a interrupts.o
+ .progmem.gcc_sw_table.revisa_acomoda
+                0x0000008a       0x1e main.o
+ .progmem.gcc_sw_table.PLAYS
+                0x000000a8       0x40 Plays_Externs.o
+                0x000000e8                . = ALIGN (0x2)
+                0x000000e8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e8                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000e8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e8                __ctors_start = .
+ *(.ctors)
+                0x000000e8                __ctors_end = .
+                0x000000e8                __dtors_start = .
+ *(.dtors)
+                0x000000e8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e8        0x0 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x000000e8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e8        0xc D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f4       0x10 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000f4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000104        0x8 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000010c        0x4 D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000010c                __vector_1
+                0x0000010c                __vector_12
+                0x0000010c                __bad_interrupt
+                0x0000010c                __vector_6
+                0x0000010c                __vector_3
+                0x0000010c                __vector_11
+                0x0000010c                __vector_13
+                0x0000010c                __vector_17
+                0x0000010c                __vector_19
+                0x0000010c                __vector_7
+                0x0000010c                __vector_5
+                0x0000010c                __vector_9
+                0x0000010c                __vector_2
+                0x0000010c                __vector_15
+                0x0000010c                __vector_8
+                0x0000010c                __vector_14
+                0x0000010c                __vector_16
+                0x0000010c                __vector_18
+                0x0000010c                __vector_20
+                0x00000110                . = ALIGN (0x2)
+ *(.text.*)
+ .text.EEWrite2Bytes
+                0x00000110       0x4a atc24.o
+                0x00000110                EEWrite2Bytes
+ .text.EEWriteByte
+                0x0000015a       0x3c atc24.o
+                0x0000015a                EEWriteByte
+ .text.EEReadByte
+                0x00000196       0x42 atc24.o
+                0x00000196                EEReadByte
+ .text.Lee_Botones
+                0x000001d8      0x53e botones.o
+                0x000001d8                Lee_Botones
+ .text.Mode_de_DEPLOYE
+                0x00000716      0x5a0 display.o
+                0x00000716                Mode_de_DEPLOYE
+ .text.__vector_10
+                0x00000cb6       0xfc interrupts.o
+                0x00000cb6                __vector_10
+ .text.__vector_4
+                0x00000db2       0x4a interrupts.o
+                0x00000db2                __vector_4
+ .text.Modulo_Brillo
+                0x00000dfc       0x66 interrupts.o
+                0x00000dfc                Modulo_Brillo
+ .text.HC595Latch
+                0x00000e62       0x12 interrupts.o
+                0x00000e62                HC595Latch
+ .text.DecimalToBCD
+                0x00000e74       0x26 interrupts.o
+                0x00000e74                DecimalToBCD
+ .text.BCDaDecimal
+                0x00000e9a       0x16 interrupts.o
+                0x00000e9a                BCDaDecimal
+ .text.LeeRTC   0x00000eb0       0x7c interrupts.o
+                0x00000eb0                LeeRTC
+ .text.Acomoda_5x32
+                0x00000f2c      0x66a interrupts.o
+                0x00000f2c                Acomoda_5x32
+ .text.Acomoda_5X32_DATE
+                0x00001596      0x70c interrupts.o
+                0x00001596                Acomoda_5X32_DATE
+ .text.Despliega
+                0x00001ca2       0x2c interrupts.o
+                0x00001ca2                Despliega
+ .text.send_spi
+                0x00001cce       0x60 interrupts.o
+                0x00001cce                send_spi
+ .text.DELAY_us
+                0x00001d2e        0xc delay.o
+                0x00001d2e                DELAY_us
+ .text.I2C_Init
+                0x00001d3a        0xe i2c.o
+                0x00001d3a                I2C_Init
+ .text.I2C_Stop
+                0x00001d48       0x14 i2c.o
+                0x00001d48                I2C_Stop
+ .text.I2C_Write_RD
+                0x00001d5c        0xe i2c.o
+                0x00001d5c                I2C_Write_RD
+ .text.I2C_Read
+                0x00001d6a       0x16 i2c.o
+                0x00001d6a                I2C_Read
+ .text.i2c_check_status
+                0x00001d80       0x16 i2c.o
+                0x00001d80                i2c_check_status
+ .text.I2C_Start
+                0x00001d96       0x12 i2c.o
+                0x00001d96                I2C_Start
+ .text.I2C_Write
+                0x00001da8       0x22 i2c.o
+                0x00001da8                I2C_Write
+ .text.Init_Btns
+                0x00001dca       0x3e main.o
+                0x00001dca                Init_Btns
+ .text.HC595Init
+                0x00001e08        0xe main.o
+                0x00001e08                HC595Init
+ .text.inicio_timer
+                0x00001e16       0x28 main.o
+                0x00001e16                inicio_timer
+ .text.Init_SPI
+                0x00001e3e       0x12 main.o
+                0x00001e3e                Init_SPI
+ .text.Init_WT588D_Ports
+                0x00001e50        0xa main.o
+                0x00001e50                Init_WT588D_Ports
+ .text.init_io_ports
+                0x00001e5a       0x1a main.o
+                0x00001e5a                init_io_ports
+ .text.revisa_enviar_spi
+                0x00001e74       0x40 main.o
+                0x00001e74                revisa_enviar_spi
+ .text.revisa_acomoda
+                0x00001eb4      0x1f4 main.o
+                0x00001eb4                revisa_acomoda
+ .text.revisa_despliega
+                0x000020a8       0x12 main.o
+                0x000020a8                revisa_despliega
+ .text.revisa_juegos
+                0x000020ba        0xa main.o
+                0x000020ba                revisa_juegos
+ .text.revisa_enviar_audio
+                0x000020c4        0xe main.o
+                0x000020c4                revisa_enviar_audio
+ .text.revisa_alarmaYsonidos
+                0x000020d2       0xd2 main.o
+                0x000020d2                revisa_alarmaYsonidos
+ .text.main     0x000021a4      0x22a main.o
+                0x000021a4                main
+ .text.PLAYS    0x000023ce      0x42e Plays_Externs.o
+                0x000023ce                PLAYS
+ .text.DS1307_get
+                0x000027fc       0x36 rtc_ds1307.o
+                0x000027fc                DS1307_get
+ .text.DS1307_settime
+                0x00002832       0x44 rtc_ds1307.o
+                0x00002832                DS1307_settime
+ .text.DS1307_setdate
+                0x00002876       0x44 rtc_ds1307.o
+                0x00002876                DS1307_setdate
+ .text.Execute_audio
+                0x000028ba       0x12 WT588D.o
+                0x000028ba                Execute_audio
+ .text.on_audio
+                0x000028cc        0xe WT588D.o
+                0x000028cc                on_audio
+ .text.on_audio_alrm
+                0x000028da        0xe WT588D.o
+                0x000028da                on_audio_alrm
+ .text.play_song_secuence
+                0x000028e8       0xfa WT588D.o
+                0x000028e8                play_song_secuence
+ .text.libgcc   0x000029e2        0xc d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x000029e2                __tablejump2__
+                0x000029ee                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000029ee        0x0 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000029ee                _exit
+                0x000029ee                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000029ee        0x4 d:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000029f2                _etext = .
+
+.data           0x00800060        0x0 load address 0x000029f2
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00800060       0x81
+                0x00800060                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800060       0x4b atc24.o
+                0x00800060                Drive_Alarm
+                0x00800061                PILOTE_HORLOGE
+                0x00800080                PILOTE_SPI
+ COMMON         0x008000ab       0x2b botones.o
+                0x008000ab                KIND_DISPLAY
+                0x008000b0                MODE_DEPLOYE
+                0x008000b1                On_Off_Options
+                0x008000b3                BOUTONS_PILOTES
+                0x008000c1                Maneja_tiempo
+                0x008000c7                ESTADO
+                0x008000c8                Drive_WT58
+ COMMON         0x008000d6        0xb interrupts.o
+                0x008000d6                Drive_ornament
+                0x008000e1                PROVIDE (__bss_end, .)
+                0x000029f2                __data_load_start = LOADADDR (.data)
+                0x000029f2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008000e1        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008000e1                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 atc24.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 botones.o
+ .comment       0x00000030       0x31 display.o
+ .comment       0x00000030       0x31 interrupts.o
+ .comment       0x00000030       0x31 delay.o
+ .comment       0x00000030       0x31 i2c.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 Plays_Externs.o
+ .comment       0x00000030       0x31 rtc_ds1307.o
+ .comment       0x00000030       0x31 WT588D.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c D:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x268
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 atc24.o
+ .debug_aranges
+                0x00000030       0x20 botones.o
+ .debug_aranges
+                0x00000050       0x20 display.o
+ .debug_aranges
+                0x00000070       0x70 interrupts.o
+ .debug_aranges
+                0x000000e0       0x28 delay.o
+ .debug_aranges
+                0x00000108       0x50 i2c.o
+ .debug_aranges
+                0x00000158       0x80 main.o
+ .debug_aranges
+                0x000001d8       0x20 Plays_Externs.o
+ .debug_aranges
+                0x000001f8       0x38 rtc_ds1307.o
+ .debug_aranges
+                0x00000230       0x38 WT588D.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3c7d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5a7 atc24.o
+ .debug_info    0x000005a7      0x9ea botones.o
+ .debug_info    0x00000f91      0x779 display.o
+ .debug_info    0x0000170a      0x964 interrupts.o
+ .debug_info    0x0000206e      0x175 delay.o
+ .debug_info    0x000021e3      0x22e i2c.o
+ .debug_info    0x00002411      0xd25 main.o
+ .debug_info    0x00003136      0x408 Plays_Externs.o
+ .debug_info    0x0000353e      0x4b6 rtc_ds1307.o
+ .debug_info    0x000039f4      0x289 WT588D.o
+
+.debug_abbrev   0x00000000      0xb7c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x140 atc24.o
+ .debug_abbrev  0x00000140      0x10f botones.o
+ .debug_abbrev  0x0000024f      0x10b display.o
+ .debug_abbrev  0x0000035a      0x1d9 interrupts.o
+ .debug_abbrev  0x00000533       0xe0 delay.o
+ .debug_abbrev  0x00000613      0x126 i2c.o
+ .debug_abbrev  0x00000739      0x18c main.o
+ .debug_abbrev  0x000008c5       0xac Plays_Externs.o
+ .debug_abbrev  0x00000971      0x10e rtc_ds1307.o
+ .debug_abbrev  0x00000a7f       0xfd WT588D.o
+
+.debug_line     0x00000000     0x2872
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x180 atc24.o
+ .debug_line    0x00000180      0x53e botones.o
+ .debug_line    0x000006be      0x605 display.o
+ .debug_line    0x00000cc3      0xa4d interrupts.o
+ .debug_line    0x00001710      0x14f delay.o
+ .debug_line    0x0000185f      0x1d8 i2c.o
+ .debug_line    0x00001a37      0x7a7 main.o
+ .debug_line    0x000021de      0x2c3 Plays_Externs.o
+ .debug_line    0x000024a1      0x192 rtc_ds1307.o
+ .debug_line    0x00002633      0x23f WT588D.o
+
+.debug_frame    0x00000000      0x4d8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x74 atc24.o
+ .debug_frame   0x00000074       0x38 botones.o
+ .debug_frame   0x000000ac       0x30 display.o
+ .debug_frame   0x000000dc      0x14c interrupts.o
+ .debug_frame   0x00000228       0x34 delay.o
+ .debug_frame   0x0000025c       0x84 i2c.o
+ .debug_frame   0x000002e0       0xf0 main.o
+ .debug_frame   0x000003d0       0x24 Plays_Externs.o
+ .debug_frame   0x000003f4       0x84 rtc_ds1307.o
+ .debug_frame   0x00000478       0x60 WT588D.o
+
+.debug_str      0x00000000      0x933
+ *(.debug_str)
+ .debug_str     0x00000000      0x3ba atc24.o
+                                0x420 (size before relaxing)
+ .debug_str     0x000003ba      0x257 botones.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00000611       0x1f display.o
+                                0x5cf (size before relaxing)
+ .debug_str     0x00000630      0x13f interrupts.o
+                                0x694 (size before relaxing)
+ .debug_str     0x0000076f       0x6a delay.o
+                                0x1d2 (size before relaxing)
+ .debug_str     0x000007d9       0x32 i2c.o
+                                0x228 (size before relaxing)
+ .debug_str     0x0000080b       0xde main.o
+                                0x7a9 (size before relaxing)
+ .debug_str     0x000008e9       0x15 Plays_Externs.o
+                                0x3f4 (size before relaxing)
+ .debug_str     0x000008fe       0x27 rtc_ds1307.o
+                                0x312 (size before relaxing)
+ .debug_str     0x00000925        0xe WT588D.o
+                                0x26a (size before relaxing)
+
+.debug_loc      0x00000000      0xade
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x1d3 atc24.o
+ .debug_loc     0x000001d3      0x14f botones.o
+ .debug_loc     0x00000322       0x2f display.o
+ .debug_loc     0x00000351      0x2e4 interrupts.o
+ .debug_loc     0x00000635       0xda delay.o
+ .debug_loc     0x0000070f       0xc9 i2c.o
+ .debug_loc     0x000007d8       0x2f main.o
+ .debug_loc     0x00000807      0x266 rtc_ds1307.o
+ .debug_loc     0x00000a6d       0x71 WT588D.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1c8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 atc24.o
+ .debug_ranges  0x00000020       0x10 botones.o
+ .debug_ranges  0x00000030       0x10 display.o
+ .debug_ranges  0x00000040       0x60 interrupts.o
+ .debug_ranges  0x000000a0       0x18 delay.o
+ .debug_ranges  0x000000b8       0x40 i2c.o
+ .debug_ranges  0x000000f8       0x70 main.o
+ .debug_ranges  0x00000168       0x10 Plays_Externs.o
+ .debug_ranges  0x00000178       0x28 rtc_ds1307.o
+ .debug_ranges  0x000001a0       0x28 WT588D.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Reloj_LED.elf elf32-avr)
+LOAD linker stubs
